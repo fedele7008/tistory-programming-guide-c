@@ -1,1 +1,2 @@
-# tistory-programming-guide-c
+[프로그래밍 첫걸음 C 에서 시작하기] 연습 문제
+
